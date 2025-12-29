@@ -8,6 +8,7 @@ The dashboard is built to help business stakeholders monitor revenue trends, qua
 
 <img width="1194" height="673" alt="Pizza Paradiso" src="https://github.com/user-attachments/assets/90af01ef-52d1-408d-8b90-5debe8609aa3" />
 
+---
 
 🎯 Business Objectives
 
@@ -23,6 +24,8 @@ Monitor average sales amount to support pricing strategies
 
 Enable leadership to make data-backed operational decisions
 
+---
+
 🔍 Key Insights
 
 🍕 Certain pizza categories contribute the highest share of total revenue
@@ -35,6 +38,8 @@ Enable leadership to make data-backed operational decisions
 
 📦 High quantity sold does not always equal higher revenue, highlighting pricing impact
 
+---
+
 🛠️ Technical Details
 Aspect	Details
 Tools Used	Power BI, Microsoft Excel
@@ -42,6 +47,8 @@ Dataset	Pizza Sales Dataset (CSV)
 Report File	Pizza Sales Performance Dashboard.pbix
 Visuals Used	Bar Charts, Line Charts, Pie Charts, KPI Cards, Map
 Purpose	Business performance analysis & reporting
+
+---
 🚀 Power BI Skills Demonstrated
 
 Data Cleaning & Transformation using Power Query
@@ -62,6 +69,8 @@ Executive-friendly KPI dashboard design
 
 Business storytelling using visuals
 
+---
+
 📊 Key Metrics Visualized
 
 💰 Total Sales
@@ -78,6 +87,8 @@ Business storytelling using visuals
 
 👔 Manager Performance Analysis
 
+---
+
 💼 Business Impact
 
 This dashboard empowers business users to:
@@ -92,6 +103,8 @@ Support better inventory & pricing decisions
 
 Gain quick insights through interactive analytics
 
+---
+
 🗂️ Dataset Information
 
 Source: Pizza Sales Dataset (CSV)
@@ -100,8 +113,11 @@ Usage: Educational & portfolio demonstration
 
 License: Open for learning purposes
 
+---
+
 📸 Dashboard Preview
 
+---
 
 👤 Author
 
