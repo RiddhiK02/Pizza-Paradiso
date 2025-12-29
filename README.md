@@ -6,6 +6,9 @@ This Power BI dashboard provides a comprehensive analysis of a Pizza Restaurant 
 
 The dashboard is built to help business stakeholders monitor revenue trends, quantity sold, branch-wise performance, and managerial efficiency, enabling data-driven strategic decisions.
 
+<img width="1194" height="673" alt="Pizza Paradiso" src="https://github.com/user-attachments/assets/90af01ef-52d1-408d-8b90-5debe8609aa3" />
+
+
 🎯 Business Objectives
 
 Analyze total sales and quantity sold across branches
