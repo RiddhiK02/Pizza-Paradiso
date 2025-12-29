@@ -121,7 +121,7 @@ License: Open for learning purposes
 ### Branch & Quantity Analysis
 <img width="1193" height="674" alt="Screenshot 2025-12-29 185408" src="https://github.com/user-attachments/assets/305b6bbc-9f8e-4e3a-8e98-26a3a53875fd" />
 
-###Executive Summary View
+### Executive Summary View
 <img width="1193" height="674" alt="Screenshot 2025-12-29 185757" src="https://github.com/user-attachments/assets/6bbc4f5f-44a2-47a7-a847-85280a7a9876" />
 
 
@@ -130,8 +130,11 @@ License: Open for learning purposes
 👤 Author
 
 Created by: Riddhi K
+
 📧 Email: khanvilkarr02@gmail.com
 
 🔗 LinkedIn: http://www.linkedin.com/in/kriddhi
+
+---
 
 ⭐ If you find this project useful, feel free to give it a star!
