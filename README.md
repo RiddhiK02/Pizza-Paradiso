@@ -1,6 +1,6 @@
 # Pizza-Paradiso
 
-📌 Project Overview
+## 📌 Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of a Pizza Restaurant Chain’s sales performance across multiple branches, managers, pizza categories, and time periods.
 
@@ -10,7 +10,7 @@ The dashboard is built to help business stakeholders monitor revenue trends, qua
 
 ---
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 
 Analyze total sales and quantity sold across branches
 
@@ -26,7 +26,7 @@ Enable leadership to make data-backed operational decisions
 
 ---
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 🍕 Certain pizza categories contribute the highest share of total revenue
 
@@ -66,7 +66,7 @@ Enable leadership to make data-backed operational decisions
 
 ---
 
-📊 Key Metrics Visualized
+## 📊 Key Metrics Visualized
 
 💰 Total Sales
 
@@ -84,7 +84,7 @@ Enable leadership to make data-backed operational decisions
 
 ---
 
-💼 Business Impact
+## 💼 Business Impact
 
 This dashboard empowers business users to:
 
@@ -100,7 +100,7 @@ Gain quick insights through interactive analytics
 
 ---
 
-🗂️ Dataset Information
+## 🗂️ Dataset Information
 
 Source: Pizza Sales Dataset (CSV)
 
@@ -110,16 +110,22 @@ License: Open for learning purposes
 
 ---
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 ### Sales Performance Dashboard – Pizza Paradiso
 <img width="1194" height="673" alt="Pizza Paradiso" src="https://github.com/user-attachments/assets/90af01ef-52d1-408d-8b90-5debe8609aa3" />
 
+---
+
 ### Manager Performance View
 <img width="1195" height="674" alt="Screenshot 2025-12-29 185250" src="https://github.com/user-attachments/assets/f745468b-b643-4953-8c00-0f7fdbef02ec" />
 
+---
+
 ### Branch & Quantity Analysis
 <img width="1193" height="674" alt="Screenshot 2025-12-29 185408" src="https://github.com/user-attachments/assets/305b6bbc-9f8e-4e3a-8e98-26a3a53875fd" />
+
+---
 
 ### Executive Summary View
 <img width="1193" height="674" alt="Screenshot 2025-12-29 185757" src="https://github.com/user-attachments/assets/6bbc4f5f-44a2-47a7-a847-85280a7a9876" />
@@ -127,7 +133,7 @@ License: Open for learning purposes
 
 ---
 
-👤 Author
+## 👤 Author
 
 Created by: Riddhi K
 
