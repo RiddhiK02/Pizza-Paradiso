@@ -1,5 +1,5 @@
 # Pizza-Paradiso
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/pizza_dashboard.png" width="900"> </p>
+
 📌 Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of a Pizza Restaurant Chain’s sales performance across multiple branches, managers, pizza categories, and time periods.
@@ -98,7 +98,7 @@ Usage: Educational & portfolio demonstration
 License: Open for learning purposes
 
 📸 Dashboard Preview
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/pizza_dashboard.png" width="900"> </p>
+
 
 👤 Author
 
