@@ -117,6 +117,17 @@ License: Open for learning purposes
 
 📸 Dashboard Preview
 
+## Sales Performance Dashboard – Pizza Paradiso
+<img width="1194" height="673" alt="Pizza Paradiso" src="https://github.com/user-attachments/assets/90af01ef-52d1-408d-8b90-5debe8609aa3" />
+
+
+<img width="1195" height="674" alt="Screenshot 2025-12-29 185250" src="https://github.com/user-attachments/assets/f745468b-b643-4953-8c00-0f7fdbef02ec" />
+
+<img width="1193" height="674" alt="Screenshot 2025-12-29 185408" src="https://github.com/user-attachments/assets/305b6bbc-9f8e-4e3a-8e98-26a3a53875fd" />
+
+<img width="1193" height="674" alt="Screenshot 2025-12-29 185757" src="https://github.com/user-attachments/assets/6bbc4f5f-44a2-47a7-a847-85280a7a9876" />
+
+
 ---
 
 👤 Author
