@@ -45,7 +45,7 @@ Enable leadership to make data-backed operational decisions
 | Aspect | Details |
 |--------|---------|
 | Tools Used | Power BI, Microsoft Excel |
-| Dataset | Pizza Sales Dataset (CSV) |
+| Dataset | Pizza Sales Dataset |
 | Report File | Pizza Sales Performance Dashboard.pbix |
 | Visuals Used | Bar Charts, Line Charts, Pie Charts, KPI Cards, Map |
 | Purpose | Business Performance Analysis & Reporting |
