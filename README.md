@@ -40,34 +40,29 @@ Enable leadership to make data-backed operational decisions
 
 ---
 
-🛠️ Technical Details
-Aspect	Details
-Tools Used	Power BI, Microsoft Excel
-Dataset	Pizza Sales Dataset (CSV)
-Report File	Pizza Sales Performance Dashboard.pbix
-Visuals Used	Bar Charts, Line Charts, Pie Charts, KPI Cards, Map
-Purpose	Business performance analysis & reporting
+## 🛠️ Technical Details
+
+| Aspect | Details |
+|--------|---------|
+| Tools Used | Power BI, Microsoft Excel |
+| Dataset | Pizza Sales Dataset (CSV) |
+| Report File | Pizza Sales Performance Dashboard.pbix |
+| Visuals Used | Bar Charts, Line Charts, Pie Charts, KPI Cards, Map |
+| Purpose | Business Performance Analysis & Reporting |
 
 ---
-🚀 Power BI Skills Demonstrated
 
-Data Cleaning & Transformation using Power Query
+## 🚀 Power BI Skills Demonstrated
 
-Data Modeling with proper table relationships
-
-DAX Measures for KPIs:
-
-Total Sales
-
-Total Quantity
-
-Average Sales Amount
-
-Interactive slicers for branch, manager, and pizza type
-
-Executive-friendly KPI dashboard design
-
-Business storytelling using visuals
+- Data Cleaning & Transformation using **Power Query**
+- Data Modeling with **proper table relationships**
+- **DAX Measures** created for KPIs:
+  - Total Sales  
+  - Total Quantity  
+  - Average Sales Amount
+- Interactive **slicers** for Branch, Manager, and Pizza Type
+- **Executive-friendly KPI dashboard** design
+- **Business storytelling** using impactful visuals
 
 ---
 
@@ -117,14 +112,16 @@ License: Open for learning purposes
 
 📸 Dashboard Preview
 
-## Sales Performance Dashboard – Pizza Paradiso
+### Sales Performance Dashboard – Pizza Paradiso
 <img width="1194" height="673" alt="Pizza Paradiso" src="https://github.com/user-attachments/assets/90af01ef-52d1-408d-8b90-5debe8609aa3" />
 
-
+### Manager Performance View
 <img width="1195" height="674" alt="Screenshot 2025-12-29 185250" src="https://github.com/user-attachments/assets/f745468b-b643-4953-8c00-0f7fdbef02ec" />
 
+### Branch & Quantity Analysis
 <img width="1193" height="674" alt="Screenshot 2025-12-29 185408" src="https://github.com/user-attachments/assets/305b6bbc-9f8e-4e3a-8e98-26a3a53875fd" />
 
+###Executive Summary View
 <img width="1193" height="674" alt="Screenshot 2025-12-29 185757" src="https://github.com/user-attachments/assets/6bbc4f5f-44a2-47a7-a847-85280a7a9876" />
 
 
